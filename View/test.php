@@ -15,8 +15,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+
         $github;
-        $hello;
+                $asdsad;
         ?>
     </body>
 </html>
