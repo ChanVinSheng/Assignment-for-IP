@@ -17,6 +17,9 @@ and open the template in the editor.
         <?php
             $haha;
                 $asdsad;
+                $asdsad;
+                $asdsad;
+                $asdsad;
         ?>
     </body>
 </html>
